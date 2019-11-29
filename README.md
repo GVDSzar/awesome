@@ -4,7 +4,7 @@ Xar is a set of modules for Cosmos, and Fantom based DeFi tools. Written in  Gol
 
 ## Contributing
 
-Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/xar-network/awesome/graphs/contributors)
+Please read the [contributing guide](./Contributing.md). Thank you to all our [contributors](https://github.com/xar-network/awesome/graphs/contributors)
 
 ## Contents
 
