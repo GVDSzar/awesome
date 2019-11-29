@@ -21,6 +21,8 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 - [Fantom TxFlow](https://github.com/Fantom-foundation/go-txflow/)
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
 - [Docs](https://xar-network.github.io/xar-network/)
+- [API](https://docs.xar.network/)
+- [SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
 
 ## Wallets
 
@@ -65,6 +67,12 @@ Projects built using the Xar Network
 
 ## Articles
 
-- [What is Xar?](https://xar-network.github.io/xar-network/)
+- [What is Xar?](https://xar-network.github.io/xar-network/what-is-xar.html)
+- [Working with Xar](https://www.blog.xar.network/working-with-xar-network/)
+- [Open Market Collaboration](https://www.blog.xar.network/announcing-technical-collaboration-of-openmarket-and-xar-network/)
+- [Central Bank Digital Currencies](https://www.blog.xar.network/central-bank-digital-currency/)
+- [Blockchain for Islamic Banking](https://www.blog.xar.network/blockchain-for-islamic-banking/)
+- [Bank Stable Coins](https://www.blog.xar.network/the-case-for-bank-stable-coins/)
+- [Network Staking Explained](https://www.blog.xar.network/xar-network-staking-explained/)
 
 **Discalaimer: This is a community led repo, it does not reflect the views of Xar Network**
