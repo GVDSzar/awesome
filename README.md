@@ -1,10 +1,10 @@
-# Awesome Cosmos
+# Awesome Xar
 
-The Cosmos-SDK is a framework for building blockchain applications in Golang. It is being used to build Gaia, the first implementation of the Cosmos Hub.
+Xar is a set of modules for Cosmos and Fantom based DeFi written in  Golang.
 
 ## Contributing
 
-Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/cosmos/awesome/graphs/contributors)
+Please read the [contributing guide](./contributing.md). Thank you to all our [contributors](https://github.com/xar-network/awesome/graphs/contributors)
 
 ## Contents
 
@@ -16,35 +16,17 @@ Please read the [contributing guide](./contributing.md). Thank you to all our [c
 
 ## Resources
 
+- [Xar Network](https://github.com/xar-network/xar-network/)
+- [Fantom Lachesis](https://github.com/Fantom-foundation/go-lachesis/)
+- [Fantom TxFlow](https://github.com/Fantom-foundation/go-txflow/)
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
-- [Docs](https://cosmos.network/docs/)
-- [Nameservice Tutorial](https://cosmos.network/docs/tutorial/)
-- [Interchain Standards](https://github.com/cosmos/ics/)
+- [Docs](https://xar-network.github.io/xar-network/)
 
 ## Wallets
 
-- [Lunie](https://lunie.io/)
-- [Atomic Wallet](https://atomicwallet.io/)
-- [Cobo](https://cobo.com/)
-- [Cosmos Station](https://www.cosmostation.io/)
-- [HuobiWallet](https://www.huobiwallet.com/)
-- [ImToken](https://token.im/)
-- [Lunamint](https://lunamint.com/)
-- [MathWallet](https://www.mathwallet.org/en/)
-- [Trust Wallet](https://trustwallet.com/)
-- [Wetez](https://www.wetez.io/homepage)
-
 ## Block Explorers
 
-- [Big Dipper](https://bigdipper.forbole.com/)
-- [Cosmos Overview](https://cosmos-overview.genesislab.net/)
-- [Hubble](https://hubble.figment.network/)
-- [Lunie](https://lunie.io)
-- [Mintscan](https://www.mintscan.io/)
-- [Stargazer](https://stargazer.certus.one/)
-- [B-Harvest](https://bharvest.io/wallet_en)
-- [ATOMScan](https://atomscan.app)
-- [Coris](https://coris.network)
+- [Big Dipper](https://explorer.xar.network/)
 
 ## Modules
 
@@ -60,52 +42,29 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/slashing)
 - [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/staking)
 - [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/supply)
-- [Kava - CDP System](https://github.com/Kava-Labs/kava-devnet/tree/master/blockchain/x)
-- [Kava - Payment Channels](https://github.com/Kava-Labs/cosmos-paychan)
+- [Xar Network - Auction](https://github.com/xar-network/xar-network/tree/master/x/auction)
+- [Xar Network - Authority](https://github.com/xar-network/xar-network/tree/master/x/authority)
+- [Xar Network - Compound](https://github.com/xar-network/xar-network/tree/master/x/compound)
+- [Xar Network - CSDT](https://github.com/xar-network/xar-network/tree/master/x/csdt)
+- [Xar Network - Interest](https://github.com/xar-network/xar-network/tree/master/x/interest)
+- [Xar Network - Issue](https://github.com/xar-network/xar-network/tree/master/x/issue)
+- [Xar Network - Issuer](https://github.com/xar-network/xar-network/tree/master/x/issuer)
+- [Xar Network - liquidator](https://github.com/xar-network/xar-network/tree/master/x/liquidator)
+- [Xar Network - Liquidity Provider](https://github.com/xar-network/xar-network/tree/master/x/liquidityprovider)
+- [Xar Network - Market](https://github.com/xar-network/xar-network/tree/master/x/market)
+- [Xar Network - NFT](https://github.com/xar-network/xar-network/tree/master/x/nft)
+- [Xar Network - Oracle](https://github.com/xar-network/xar-network/tree/master/x/oracle)
+- [Xar Network - Order](https://github.com/xar-network/xar-network/tree/master/x/order)
+- [Xar Network - Pool](https://github.com/xar-network/xar-network/tree/master/x/pool)
+- [Xar Network - Record](https://github.com/xar-network/xar-network/tree/master/x/record)
+- [Xar Network - Uniswap](https://github.com/xar-network/xar-network/tree/master/x/uniswap)
 
 ## Ecosystem
 
-Projects built using the Cosmos-SDK
-
-- Agoric [Website](https://agoric.com/)
-- Althea [Website](https://althea.net/)
-- Binance Chain [Github](https://github.com/binance-chain/)
-- Bitsong [Website](https://bitsong.io/)
-- Comdex [Website](https://comdex.sg/)
-- Comercio.netowrk [Website](https://commercio.network)
-- Cosmos Hub [Github](https://github.com/cosmos/gaia)
-- CyberCongress [Website](https://cybercongress.ai)
-- Data Pace [Website](https://datapace.io/)
-- Denctral Card Network [Website](https://www.decentral-card.net/)
-- Decentrarandom [Website](https://decentrandom.com/)
-- Dgaming [Website](https://hub.dgaming.com/)
-- Everett [Website](https://www.everett.zone/)
-- e-Money [Website](https://e-money.com/)
-- Hashgard [Website](https://www.hashgard.io/)
-- IRISnet [Website](https://www.irisnet.org/)
-- IXO FOundation [Website](http://ixo.foundation/)
-- Kava [Website](https://kava.io/)
-- Kira Interchain Exchange [Website](https://kiraex.com/)
-- Kuende [Website](https://kuende.com/)
-- LCNEM [Website](https://lcnem.com/)
-- LikeCoin [Website](https://like.co/)
-- Lino Network [Website](https://lino.network/)
-- Mesg [Website](https://mesg.com/)
-- ProximaX [Website](https://www.proximax.io/)
-- Playlist [Website](https://www.playlist.com/)
-- QOS [Website](https://www.qoschain.io/#/xingyun)
-- Regen Network [Website](https://regen.network/)
-- Sentinel [Website](https://sentinel.co/)
-- Spend [Website](https://www.spend.com/)
-- Terra [Website](https://terra.money/)
-- ThorChain [Website](https://thorchain.org/)
-- Tichex [Website](https://tichex.com/)
-- Trustory [Website](https://www.trustory.io/)
-
-- [More Here](https://forum.cosmos.network/t/list-of-projects-in-cosmos-tendermint-ecosystem/243)
+Projects built using the Xar Network
 
 ## Articles
 
-- [What is Cosmos?](https://cosmos.network/intro/)
+- [What is Xar?](https://xar-network.github.io/xar-network/)
 
-**Discalaimer: This is a community led repo, it does not reflect the views of All In Bits (Tendermint Inc.)**
+**Discalaimer: This is a community led repo, it does not reflect the views of Xar Network**
