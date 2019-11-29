@@ -17,6 +17,7 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 ## Resources
 
 - [Xar Network](https://github.com/xar-network/xar-network/)
+- [Xar Guide](https://xar-network.github.io/xar-network/)
 - [Fantom Lachesis](https://github.com/Fantom-foundation/go-lachesis/)
 - [Fantom TxFlow](https://github.com/Fantom-foundation/go-txflow/)
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
