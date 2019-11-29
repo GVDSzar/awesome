@@ -1,6 +1,6 @@
 # Awesome Xar
 
-Xar is a set of modules for Cosmos and Fantom based DeFi written in  Golang.
+Xar is a set of modules for Cosmos, and Fantom based DeFi tools. Written in  Golang.
 
 ## Contributing
 
