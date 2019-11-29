@@ -20,9 +20,9 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 - [Fantom Lachesis](https://github.com/Fantom-foundation/go-lachesis/)
 - [Fantom TxFlow](https://github.com/Fantom-foundation/go-txflow/)
 - [Cosmos SDK](https://github.com/cosmos/cosmos-sdk/)
-- [Docs](https://xar-network.github.io/xar-network/)
-- [API](https://docs.xar.network/)
-- [SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
+- [Xar Docs](https://xar-network.github.io/xar-network/)
+- [Xar API](https://docs.xar.network/)
+- [Xar SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
 
 ## Wallets
 
