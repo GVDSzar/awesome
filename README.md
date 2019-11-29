@@ -24,6 +24,13 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 - [Xar Docs](https://xar-network.github.io/xar-network/)
 - [Xar API](https://docs.xar.network/)
 - [Xar SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
+- [Install Xar](https://xar-network.github.io/xar-network/installation.html)
+- [Set up full node](https://xar-network.github.io/xar-network/join-mainnet.html)
+- [Upgrade to validator node](https://xar-network.github.io/xar-network/validators/validator-setup.html)
+- [Setup testnet](https://xar-network.github.io/xar-network/deploy-testnet.html)
+- [Intro to validators](https://xar-network.github.io/xar-network/validators/overview.html)
+- [Validator FAQ](https://xar-network.github.io/xar-network/validators/validator-faq.html)
+- [Join the mainnet](https://xar-network.github.io/xar-network/join-mainnet.html)
 
 ## Wallets
 
