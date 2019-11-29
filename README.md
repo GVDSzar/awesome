@@ -9,6 +9,7 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 ## Contents
 
 - [Resources](#resources)
+- [SDKs](#sdk)
 - [Wallets](#wallets)
 - [Block Explorers](#block-explorers)
 - [Modules](#modules)
@@ -33,6 +34,10 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 - [Join the mainnet](https://xar-network.github.io/xar-network/join-mainnet.html)
 
 ## Wallets
+
+## SDKs
+
+- [Javascript SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
 
 ## Block Explorers
 
