@@ -57,22 +57,27 @@ If you are working on a module that you would like to be used by the community, 
 - [Cosmos SDK - Slashing](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/slashing)
 - [Cosmos SDK - Staking](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/staking)
 - [Cosmos SDK - Supply](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/supply)
-- [Xar Network - Auction](https://github.com/xar-network/xar-network/tree/master/x/auction)
-- [Xar Network - Authority](https://github.com/xar-network/xar-network/tree/master/x/authority)
-- [Xar Network - Compound](https://github.com/xar-network/xar-network/tree/master/x/compound)
-- [Xar Network - CSDT](https://github.com/xar-network/xar-network/tree/master/x/csdt)
-- [Xar Network - Interest](https://github.com/xar-network/xar-network/tree/master/x/interest)
-- [Xar Network - Issue](https://github.com/xar-network/xar-network/tree/master/x/issue)
-- [Xar Network - Issuer](https://github.com/xar-network/xar-network/tree/master/x/issuer)
-- [Xar Network - liquidator](https://github.com/xar-network/xar-network/tree/master/x/liquidator)
-- [Xar Network - Liquidity Provider](https://github.com/xar-network/xar-network/tree/master/x/liquidityprovider)
-- [Xar Network - Market](https://github.com/xar-network/xar-network/tree/master/x/market)
-- [Xar Network - NFT](https://github.com/xar-network/xar-network/tree/master/x/nft)
-- [Xar Network - Oracle](https://github.com/xar-network/xar-network/tree/master/x/oracle)
-- [Xar Network - Order](https://github.com/xar-network/xar-network/tree/master/x/order)
-- [Xar Network - Pool](https://github.com/xar-network/xar-network/tree/master/x/pool)
-- [Xar Network - Record](https://github.com/xar-network/xar-network/tree/master/x/record)
-- [Xar Network - Uniswap](https://github.com/xar-network/xar-network/tree/master/x/uniswap)
+- [Xar Network - Auction](https://godoc.org/github.com/xar-network/xar-network/x/auction)
+- [Xar Network - CSDT](https://godoc.org/github.com/xar-network/xar-network/x/csdt)
+- [Xar Network - Denominations](https://godoc.org/github.com/xar-network/xar-network/x/denominations)
+- [Xar Network - Issue](https://godoc.org/github.com/xar-network/xar-network/x/issue)
+- [Xar Network - liquidator](https://godoc.org/github.com/xar-network/xar-network/x/liquidator)
+- [Xar Network - Market](https://godoc.org/github.com/xar-network/xar-network/x/market)
+- [Xar Network - NFT](https://godoc.org/github.com/xar-network/xar-network/x/nft)
+- [Xar Network - Oracle](https://godoc.org/github.com/xar-network/xar-network/x/oracle)
+- [Xar Network - Order](https://godoc.org/github.com/xar-network/xar-network/x/order)
+- [Xar Network - Record](https://godoc.org/github.com/xar-network/xar-network/x/record)
+
+## WIP Modules
+
+- [Xar Network - Compound](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/compound)
+- [Xar Network - Uniswap](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/uniswap)
+- [Xar Network - Pool](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/pool)
+- [Xar Network - Deposit](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/deposit)
+- [Xar Network - Escrow](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/escrow)
+- [Xar Network - Futures](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/future)
+- [Xar Network - Time Locks](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/lock)
+
 
 ## Ecosystem
 
