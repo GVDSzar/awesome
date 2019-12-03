@@ -88,4 +88,4 @@ Projects built using the Xar Network
 - [Bank Stable Coins](https://www.blog.xar.network/the-case-for-bank-stable-coins/)
 - [Network Staking Explained](https://www.blog.xar.network/xar-network-staking-explained/)
 
-**Discalaimer: This is a community led repo, it does not reflect the views of Xar Network**
+**Disclaimer: This is a community led repo, it does not reflect the views of Xar Network**
