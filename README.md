@@ -35,6 +35,9 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 
 ## Wallets
 
+- [Xar Portal](https://portal.xar.network)
+- [Xar Wallet](https://wallet.xar.network)
+
 ## SDKs
 
 - [Javascript SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
