@@ -76,6 +76,7 @@ If you are working on a module that you would like to be used by the community, 
 
 - [Xar Network - Compound](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/compound)
 - [Xar Network - Uniswap](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/uniswap)
+- [Xar Network - Synthetic](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/synthetic)
 - [Xar Network - Pool](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/pool)
 - [Xar Network - Deposit](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/deposit)
 - [Xar Network - Escrow](https://github.com/xar-network/xar-network/tree/wip_v2.0.8/x/escrow)
