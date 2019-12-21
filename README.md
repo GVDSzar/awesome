@@ -33,6 +33,11 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 - [Intro to validators](https://xar-network.github.io/xar-network/validators/overview.html)
 - [Validator FAQ](https://xar-network.github.io/xar-network/validators/validator-faq.html)
 - [Join the mainnet](https://xar-network.github.io/xar-network/join-mainnet.html)
+- [Xar User FAQ](https://github.com/xar-network/faq)
+- [CSSR](https://github.com/xar-network/faq/blob/master/CSSR.md)
+- [Xar Governance](https://github.com/xar-network/faq/blob/master/gov.md)
+- [Xar FAQ](https://xar.network/faqs/)
+- [CSDT](https://github.com/xar-network/CSDT)
 
 ## Wallets
 
@@ -42,6 +47,7 @@ Please read the [contributing guide](./Contributing.md). Thank you to all our [c
 ## SDKs
 
 - [Javascript SDK](https://www.npmjs.com/package/@xar-network/javascript-sdk)
+- [GO SDK](https://github.com/xar-network/go-sdk)
 
 ## Block Explorers
 
@@ -89,6 +95,7 @@ Projects built using the Xar Network
 
 ## Articles
 
+- [What is Xar Network](https://www.blog.xar.network/what-is-xar-network/)
 - [What is Xar?](https://xar-network.github.io/xar-network/what-is-xar.html)
 - [Working with Xar](https://www.blog.xar.network/working-with-xar-network/)
 - [Open Market Collaboration](https://www.blog.xar.network/announcing-technical-collaboration-of-openmarket-and-xar-network/)
@@ -96,5 +103,8 @@ Projects built using the Xar Network
 - [Blockchain for Islamic Banking](https://www.blog.xar.network/blockchain-for-islamic-banking/)
 - [Bank Stable Coins](https://www.blog.xar.network/the-case-for-bank-stable-coins/)
 - [Network Staking Explained](https://www.blog.xar.network/xar-network-staking-explained/)
-
-**Disclaimer: This is a community led repo, it does not reflect the views of Xar Network**
+- [Joining the Xar Mainnet](https://www.blog.xar.network/joining-the-xar-mainnet/)
+- [Xar dora_hub_2 changelog](https://www.blog.xar.network/xar-dora-hub-2-changelog-03-12-2019/)
+- [Xar Step by Step](https://www.blog.xar.network/xar-step-by-step/)
+- [Interacting with Xar Modules](https://www.blog.xar.network/interacting-with-xar-modules/)
+- [Protect your Staking Rewards](https://www.blog.xar.network/how-to-protect-your-staking-rewards/)
